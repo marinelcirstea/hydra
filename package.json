@@ -1,7 +1,7 @@
 {
   "name": "hydra",
   "version": "1.0.0",
-  "description": "Made with create-react-library",
+  "description": "Enterprise React components library, currently in development.",
   "author": "marinelcirstea",
   "license": "MIT",
   "repository": "marinelcirstea/hydra",
@@ -49,5 +49,8 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
 }

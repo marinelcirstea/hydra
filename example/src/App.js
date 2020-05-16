@@ -1,10 +1,19 @@
 import React from 'react'
 
-import { ExampleComponent } from 'hydra'
+import { Button } from 'hydra'
 import 'hydra/dist/index.css'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return (
+    <div
+      style={{
+        width: '600px',
+        margin: 'auto'
+      }}
+    >
+      <Button outline>Shop with us</Button>
+    </div>
+  )
 }
 
 export default App
