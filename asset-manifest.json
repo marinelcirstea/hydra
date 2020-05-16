@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hydra/static/css/main.b9132c9f.chunk.css",
+    "main.js": "/hydra/static/js/main.b5344ade.chunk.js",
+    "main.js.map": "/hydra/static/js/main.b5344ade.chunk.js.map",
+    "runtime-main.js": "/hydra/static/js/runtime-main.bae112aa.js",
+    "runtime-main.js.map": "/hydra/static/js/runtime-main.bae112aa.js.map",
+    "static/js/2.2a8e4f4f.chunk.js": "/hydra/static/js/2.2a8e4f4f.chunk.js",
+    "static/js/2.2a8e4f4f.chunk.js.map": "/hydra/static/js/2.2a8e4f4f.chunk.js.map",
+    "index.html": "/hydra/index.html",
+    "precache-manifest.b57d71e1bfb9f7309628ecc911ba9eb0.js": "/hydra/precache-manifest.b57d71e1bfb9f7309628ecc911ba9eb0.js",
+    "service-worker.js": "/hydra/service-worker.js",
+    "static/css/main.b9132c9f.chunk.css.map": "/hydra/static/css/main.b9132c9f.chunk.css.map",
+    "static/js/2.2a8e4f4f.chunk.js.LICENSE.txt": "/hydra/static/js/2.2a8e4f4f.chunk.js.LICENSE.txt",
+    "static/js/main.b5344ade.chunk.js.LICENSE.txt": "/hydra/static/js/main.b5344ade.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bae112aa.js",
+    "static/js/2.2a8e4f4f.chunk.js",
+    "static/css/main.b9132c9f.chunk.css",
+    "static/js/main.b5344ade.chunk.js"
+  ]
+}
